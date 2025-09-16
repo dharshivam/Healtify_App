@@ -12,8 +12,6 @@ _______________________________________________________________________________
 Healthify is an AI-powered virtual wellness assistant built using Streamlit and Google Gemini.  
 It provides personalized fitness, diet, mental health, and lifestyle recommendations based on user details like age, gender, height, weight, BMI, and fitness level.  
 
-🌐 Live App: [healthaisaurav.streamlit.app](https://healthaisaurav.streamlit.app/)  
-
 ---
 
 ## 🚀 Features
