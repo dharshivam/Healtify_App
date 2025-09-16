@@ -23,7 +23,7 @@ tips = ''' Follow the steps
 st.write(tips)
 
 #Lets Configure sidebar
-st.sidebar.image(r'D:\GEN AI FINAL WEEK\Healthify\Healtify_App\bmi_image.jpg', width=500)
+st.sidebar.image('bmi_image.jpg', width=500)
 st.sidebar.header('***:red[ENTER YOUR DETAILS:]***')
 name = st.sidebar.text_input('Enter your name')
 gender = st.sidebar.selectbox('Select your gender',['Male','Female','Other'])
