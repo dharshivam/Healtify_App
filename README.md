@@ -2,8 +2,9 @@
 Welcome to Healthify — Your Personal Health & Wellness Assistant
 _______________________________________________________________________________
 
-Click here for  WebApp Link : https://healtifyapp-eipzwp5ngorc7rnxkue97y.streamlit.app/
+Click here for  WebApp Link :(https://healthsyncme.streamlit.app/)
 
+Contact Me via Linkdin : https://www.linkedin.com/in/shivam-dhar-50458b73/
 _______________________________________________________________________________
 
 
