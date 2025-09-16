@@ -1,5 +1,3 @@
 # Healthify_App
-This is personal health assistant App.
-
-
-This is the Healthify WebApp Link : https://healtifyapp-eipzwp5ngorc7rnxkue97y.streamlit.app/
+Welcome to Healthify — Your Personal Health & Wellness Assistant
+Click here for  WebApp Link : https://healtifyapp-eipzwp5ngorc7rnxkue97y.streamlit.app/
